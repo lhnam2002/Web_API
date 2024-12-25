@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\migrations\\20241219020126_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\migrations\\20241219020126_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\migrations\\20241220153153_createpoststable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\migrations\\20241220153153_createpoststable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|e:\\nam_4_2024_2025\\laptrinhmobile\\api\\webapi_hoangnam5532\\webapi_hoangnam5532\\migrations\\20241221032420_initialidentitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7624CC-3BE2-44EC-A36C-59AFD4824C0E}|WebAPI_HoangNam5532\\WebAPI_HoangNam5532.csproj|solutionrelative:webapi_hoangnam5532\\migrations\\20241221032420_initialidentitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Program.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Program.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAUwGwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:30:41.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Models\\Product.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\Product.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:35:46.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Models\\User.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\User.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:42:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\appsettings.json",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\appsettings.json",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T01:59:35.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:51:44.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:27:11.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241221032420_InitialIdentityModel.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Migrations\\20241221032420_InitialIdentityModel.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Migrations\\20241221032420_InitialIdentityModel.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Migrations\\20241221032420_InitialIdentityModel.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Migrations\\20241221032420_InitialIdentityModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:24:20.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Models\\RegistrationModel.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Models\\RegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:35:04.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Services\\EmailSender.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Services\\EmailSender.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:53:27.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Models\\LoginModel.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:34:17.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Controllers\\ProductApiController.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Controllers\\ProductApiController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:06:41.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:48:44.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Controllers\\PostController.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Controllers\\PostController.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Controllers\\PostController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:23:58.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Repositories\\IProductRepository.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:48:10.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Repositories\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Repositories\\IPostRepository.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Repositories\\IPostRepository.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Repositories\\IPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:22:56.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Models\\Post.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Models\\Post.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:13:19.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Repositories\\PostRepository.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Repositories\\PostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:23:19.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241220153153_CreatePostsTable.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Migrations\\20241220153153_CreatePostsTable.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Migrations\\20241220153153_CreatePostsTable.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Migrations\\20241220153153_CreatePostsTable.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Migrations\\20241220153153_CreatePostsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:31:53.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241219020126_Initial.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Migrations\\20241219020126_Initial.cs",
+              "RelativeDocumentMoniker": "WebAPI_HoangNam5532\\Migrations\\20241219020126_Initial.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\LapTrinhMobile\\API\\WebAPI_HoangNam5532\\WebAPI_HoangNam5532\\Migrations\\20241219020126_Initial.cs",
+              "RelativeToolTip": "WebAPI_HoangNam5532\\Migrations\\20241219020126_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:01:26.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

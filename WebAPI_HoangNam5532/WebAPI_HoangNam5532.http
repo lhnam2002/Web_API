@@ -1,0 +1,6 @@
+@WebAPI_HoangNam5532_HostAddress = http://localhost:5296
+
+GET {{WebAPI_HoangNam5532_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
